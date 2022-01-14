@@ -1,4 +1,5 @@
 ---
 site: blogdown:::blogdown_site
+publishDir = "../gulinan.github.io"
 ---
 
