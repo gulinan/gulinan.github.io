@@ -1,4 +1,4 @@
-publishDir = "../gulinan.github.io"
+baseURL = "gulinan/gulinan.github.io"
 languageCode = "en"
 theme = "hugo-apero"
 title = "Hugo Apéro"
