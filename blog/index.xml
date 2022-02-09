@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Blog That Works on Hugo Apéro</title>
+    <title>A Blog That Works on Gül İnan</title>
     <link>https://gulinan.github.io/blog/</link>
-    <description>Recent content in A Blog That Works on Hugo Apéro</description>
+    <description>Recent content in A Blog That Works on Gül İnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gulinan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -78,9 +78,9 @@ Well let&amp;rsquo;s try penguins     library(tidyverse) ## ── Attaching pac
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://gulinan.github.io/blog/rmd/</guid>
-      <description>knitr::opts_chunk$set(fig.path = &amp;quot;figs/&amp;quot;, collapse = TRUE) An empty post  woot
+      <description>knitr::opts_chunk$set(fig.path = &amp;#34;figs/&amp;#34;, collapse = TRUE)  An empty post      woot
 Yay fontawesome works.
- Well let’s try penguins library(tidyverse) ## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ── ## ✓ ggplot2 3.3.5 ✓ purrr 0.3.4 ## ✓ tibble 3.1.6 ✓ dplyr 1.0.7 ## ✓ tidyr 1.1.4 ✓ stringr 1.4.0 ## ✓ readr 2.0.2 ✓ forcats 0.5.1 ## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ── ## x dplyr::filter() masks stats::filter() ## x dplyr::lag() masks stats::lag() library(palmerpenguins) ggplot(data = penguins, aes(x = flipper_length_mm)) + geom_histogram(aes(fill = species), alpha = 0.</description>
+Well let&amp;rsquo;s try penguins     library(tidyverse) ## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ── ## ✓ ggplot2 3.3.2 ✓ purrr 0.3.4 ## ✓ tibble 3.0.4 ✓ dplyr 1.0.2 ## ✓ tidyr 1.1.2 ✓ stringr 1.4.0 ## ✓ readr 1.4.0 ✓ forcats 0.5.0 ## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.</description>
     </item>
     
     <item>
