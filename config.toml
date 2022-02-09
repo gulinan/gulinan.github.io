@@ -1,7 +1,7 @@
-baseURL = "https://gulinan.github.io/"
+baseURL = "https://gulinan.github.io/deneme"
 languageCode = "en"
 theme = "hugo-apero"
-title = "Hugo Apéro"
+title = "Gül İnan"
 author = "Gül İnan"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""

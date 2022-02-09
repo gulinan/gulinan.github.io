@@ -12,6 +12,7 @@ show_title_as_headline: true
 <ul style="font-size:20px;">
 <li>Master Thesis Project*:
 <ul>
+<li> İrem Sarıbaş (in collaboration with industry).</li>
 <li>Ozan Güldali (August 2021). Deep feature transfer from deep learning
 models into machine learning algorithms to classify Covid-19 from chest X-ray images.
 <a href="https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=v7BkNnnepTnbhn8rNR77LfMMnfBbCUVTxMavUxS_XQiweRuhiz6bn4W2oCxOvik_"> [Thesis]</a>, <a href="https://github.com/ozanguldali/modelsWithLASSO"> [Code]</a>.

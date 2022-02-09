@@ -8,6 +8,11 @@ show_title_as_headline: true
 <p style="font-size:20px;text-align: justify;">I am interested in teaching probability theory,
 mathematical statistics, statistical computing with R/Python, computational statistics, and statistical learning theory classes. I have also experience in teaching calculus which enabled me to better understand most theorems in statistics. In computational classes, I like using Git, GitHub, GitHub classroom to collect individual and grouped-based studies. In data-oriented classes, I do like dealing with data sets with "Data for Good" theme.<p>
 <br>
+<h1 color="rgb(132," 132,="" 132);="">Spring 2022 Course Webpages</h1>
+<ul style="font-size:20px;text-align:">
+<li> <a href="https://gulinan.github.io/mat244e/">MAT244E: Statistics</a></li>
+</ul>
+<br>
 <h1 color="rgb(132," 132,="" 132);="">Fall 2021 Course Webpages</h1>
 <ul style="font-size:20px;text-align:">
 <li> <a href="https://gulinan.github.io/mat221e/">MAT221E: Probability Theory</a></li>
