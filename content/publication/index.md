@@ -8,12 +8,16 @@ show_title_as_headline: true
 &nbsp;<a href="https://scholar.google.com/citations?user=0zuxPXAAAAAJ&hl=en&oi=ao"> Google
 Scholar</a><br>
 <ul style="font-size:20px;">
-<li>Preisser, J. S., Inan, G., Powers, J. M., & Chu, H. (2019). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700187"> A population‐averaged approach to diagnostic test meta‐analysis</a>. Biometrical Journal, 61(1), 126-137.<br>
+<li>Siddique, J., Daniels,  M.J., Inan, G., Battalio, S.,  Spring, B., & Hedeker, D. (2022+). Joint modeling the frequency and duration of accelerometer-measured pyhsical activity from a lifestyle intervention trial. Statistics in Medicine. (Under review)<br>
 </li>
-<li>Inan, G., Latif, M. A., & Preisser, J. (2019). <a href="https://www.tandfonline.com/doi/abs/10.1080/02664763.2018.1508560"> A PRESS statistic for working correlation structure selection in generalized estimating equations</a>. Journal of Applied Statistics, 46(4), 621-637.<br>
+<li>Aldag, S., Topcuoglu, D.,  & Inan, G. (2022). Revisiting historical bar graphics on epidemics in the era of R ggplot2. R Journal. (In-print)<br>
+</li>
+<li>Preisser, J.S., Inan, G., Powers, J.M., & Chu, H. (2019). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700187"> A population‐averaged approach to diagnostic test meta‐analysis</a>. Biometrical Journal, 61(1), 126-137.<br>
+</li>
+<li>Inan, G., Latif, M.A., & Preisser, J. (2019). <a href="https://www.tandfonline.com/doi/abs/10.1080/02664763.2018.1508560"> A PRESS statistic for working correlation structure selection in generalized estimating equations</a>. Journal of Applied Statistics, 46(4), 621-637.<br>
 </li>
 <li>
-Inan, G., & Ilk, O. (2019). <a href="https://link.springer.com/article/10.1007/s00362-016-0840-1"> A marginalized multilevel model for bivariate longitudinal binary data</a>. Statistical Papers, 60(3), 601-628.<br>
+Inan, G. & Ilk, O. (2019). <a href="https://link.springer.com/article/10.1007/s00362-016-0840-1"> A marginalized multilevel model for bivariate longitudinal binary data</a>. Statistical Papers, 60(3), 601-628.<br>
 </li>
 <li>
 Inan, G. (2018). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700261"> One‐inflation and unobserved heterogeneity in population size estimation by Ryan T. Godwin</a>. Biometrical Journal, 60(4), 859-864.<br>
@@ -28,10 +32,10 @@ Inan, G., Preisser, J., & Das, K. (2018). <a href="https://link.springer.com/art
 Inan, G. (2017). <a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.7321"> Comments on “Marginalized multilevel hurdle and zero‐inflated models for overdispersed and correlated count data with excess zeros”</a>. Statistics in Medicine, 2(37), 324-326.<br>
 </li>
 <li>
-Inan, G., & Wang, L. (2017). <a href="https://pdfs.semanticscholar.org/c08e/32ae1fbe83ace6d4b497523840b5d0b6a9d1.pdf"> PGEE: An R Package for Analysis of Longitudinal Data with High-Dimensional Covariates</a>. R Journal, 9(1), 393.<br>
+Inan, G. & Wang, L. (2017). <a href="https://pdfs.semanticscholar.org/c08e/32ae1fbe83ace6d4b497523840b5d0b6a9d1.pdf"> PGEE: An R Package for Analysis of Longitudinal Data with High-Dimensional Covariates</a>. R Journal, 9(1), 393.<br>
 </li>
 <li>  
-Inan, G., & Yucel, R. (2017). <a href="https://www.tandfonline.com/doi/abs/10.1080/02664763.2016.1238049"> Joint GEEs for multivariate correlated data with incomplete binary outcomes</a>. Journal of Applied Statistics, 44(11), 1920-1937.<br>
+Inan, G. & Yucel, R. (2017). <a href="https://www.tandfonline.com/doi/abs/10.1080/02664763.2016.1238049"> Joint GEEs for multivariate correlated data with incomplete binary outcomes</a>. Journal of Applied Statistics, 44(11), 1920-1937.<br>
 </li>
 <li>   
 Inan, G. (2015). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.6540">Comments on ‘Assessing correlation of clustered mixed outcomes from a multivariate generalized linear mixed model’</a>. Statistics in Medicine, 34(22), 3075-3078.<br>

@@ -1,212 +1,126 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://gulinan.github.io/collection/day02/01-netlify/</loc>
+    <loc>https://gulinan.github.io/deneme/collection/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/spoonful-series/01-spoonful/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/spoonful-series/01-spoonful/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/day01/01-github/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/prework/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/day01/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/day01/02-postcards/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/day01/02-postcards/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/spoonful-series/02-spoonful/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/spoonful-series/02-spoonful/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/day02/02-blogdown/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/day02/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/spoonful-series/03-spoonful/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/spoonful-series/03-spoonful/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/day01/03-distill/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/day02/03-blogdown/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/categories/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/categories/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/social/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/social/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/categories/theme-features/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/categories/theme-features/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/tags/style/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/tags/style/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/color-themes/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/color-themes/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/fonts/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/fonts/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/tags/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/collection/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/evergreen/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/categories/evergreen/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/categories/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/series/a-spoonful-of-hugo/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/series/a-spoonful-of-hugo/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/spoonful-series/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/spoonful-series/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/tags/hugo-site/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/tags/hugo-site/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/categories/r/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/categories/r/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/series/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/series/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/seedling/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/rmarkdown/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/rmd/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/rmd/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/css-grid-scaffold/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/css-grid-scaffold/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/blog/built-in-contact-form/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/elements/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/about/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/grant/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/more/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/publication/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/service/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/supervision/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/talks/</loc>
+  </url><url>
+    <loc>https://gulinan.github.io/deneme/teaching/</loc>
   </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/grant/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/more/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/service/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/supervision/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/talks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gulinan.github.io/teaching/</loc>
-  </url>
-  
 </urlset>
