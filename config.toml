@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = "https://gulinan.github.io/"
+=======
+baseURL = "https://gulinan.github.io"
+>>>>>>> 02e95e0c94416c0ddcc6111c0f30ad20cac5ac9b
 languageCode = "en"
 theme = "hugo-apero"
 title = "Gül İnan"
