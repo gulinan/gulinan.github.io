@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gül İnan</title>
-    <link>https://gulinan.github.io/deneme/</link>
+    <link>https://gulinan.github.io/</link>
     <description>Recent content on Gül İnan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gulinan.github.io/deneme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gulinan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
-      <link>https://gulinan.github.io/deneme/collection/day02/01-netlify/</link>
+      <link>https://gulinan.github.io/collection/day02/01-netlify/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/collection/day02/01-netlify/</guid>
+      <guid>https://gulinan.github.io/collection/day02/01-netlify/</guid>
       <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
 Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
     </item>
     
     <item>
       <title>A first post</title>
-      <link>https://gulinan.github.io/deneme/blog/spoonful-series/01-spoonful/</link>
+      <link>https://gulinan.github.io/blog/spoonful-series/01-spoonful/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/spoonful-series/01-spoonful/</guid>
+      <guid>https://gulinan.github.io/blog/spoonful-series/01-spoonful/</guid>
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/blog/spoonful-series/01-spoonful.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: blog  My layout is: single-series   does this work?     or this?      Let&amp;rsquo;s start.
@@ -31,10 +31,10 @@ beginning     middle     end     </description>
     
     <item>
       <title>A GitHub profile</title>
-      <link>https://gulinan.github.io/deneme/collection/day01/01-github/</link>
+      <link>https://gulinan.github.io/collection/day01/01-github/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/collection/day01/01-github/</guid>
+      <guid>https://gulinan.github.io/collection/day01/01-github/</guid>
       <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
 Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
 Profile README     This is new! Let&amp;rsquo;s do it:
@@ -43,20 +43,20 @@ https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/ma
     
     <item>
       <title>Prework</title>
-      <link>https://gulinan.github.io/deneme/collection/prework/</link>
+      <link>https://gulinan.github.io/collection/prework/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/collection/prework/</guid>
+      <guid>https://gulinan.github.io/collection/prework/</guid>
       <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
 Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
     </item>
     
     <item>
       <title>A postcard</title>
-      <link>https://gulinan.github.io/deneme/collection/day01/02-postcards/</link>
+      <link>https://gulinan.github.io/collection/day01/02-postcards/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/collection/day01/02-postcards/</guid>
+      <guid>https://gulinan.github.io/collection/day01/02-postcards/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
 install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
@@ -64,21 +64,21 @@ install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you u
     
     <item>
       <title>A second post</title>
-      <link>https://gulinan.github.io/deneme/blog/spoonful-series/02-spoonful/</link>
+      <link>https://gulinan.github.io/blog/spoonful-series/02-spoonful/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/spoonful-series/02-spoonful/</guid>
+      <guid>https://gulinan.github.io/blog/spoonful-series/02-spoonful/</guid>
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/blog/spoonful-series/02-spoonful/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series  Images in this page bundle: /deneme/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg   part 2!     does this work?      now for some very cool things     more     get ready!</description>
     </item>
     
     <item>
       <title>Using blogdown</title>
-      <link>https://gulinan.github.io/deneme/collection/day02/02-blogdown/</link>
+      <link>https://gulinan.github.io/collection/day02/02-blogdown/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/collection/day02/02-blogdown/</guid>
+      <guid>https://gulinan.github.io/collection/day02/02-blogdown/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
 install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
@@ -86,22 +86,22 @@ install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you u
     
     <item>
       <title>A third post</title>
-      <link>https://gulinan.github.io/deneme/blog/spoonful-series/03-spoonful/</link>
+      <link>https://gulinan.github.io/blog/spoonful-series/03-spoonful/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/spoonful-series/03-spoonful/</guid>
+      <guid>https://gulinan.github.io/blog/spoonful-series/03-spoonful/</guid>
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/blog/spoonful-series/03-spoonful/index.markdown  Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series  Images in this page bundle: /deneme/blog/spoonful-series/03-spoonful/featured-photo.</description>
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
     </item>
     
     <item>
       <title>A distill site</title>
-      <link>https://gulinan.github.io/deneme/collection/day01/03-distill/</link>
+      <link>https://gulinan.github.io/collection/day01/03-distill/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/collection/day01/03-distill/</guid>
+      <guid>https://gulinan.github.io/collection/day01/03-distill/</guid>
       <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
 install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
@@ -109,10 +109,10 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
     
     <item>
       <title>Warm woolen mittens</title>
-      <link>https://gulinan.github.io/deneme/collection/day02/03-blogdown/</link>
+      <link>https://gulinan.github.io/collection/day02/03-blogdown/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/collection/day02/03-blogdown/</guid>
+      <guid>https://gulinan.github.io/collection/day02/03-blogdown/</guid>
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
@@ -120,10 +120,10 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     
     <item>
       <title>Set up your social</title>
-      <link>https://gulinan.github.io/deneme/blog/social/</link>
+      <link>https://gulinan.github.io/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/social/</guid>
+      <guid>https://gulinan.github.io/blog/social/</guid>
       <description>There are five places where you can choose to show social icons. Here is the tl;dr:
  site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.
 Configure social     Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
@@ -131,39 +131,39 @@ Configure social     Wherever you end up wanting to show your social icons, you&
     
     <item>
       <title>Style your site colors</title>
-      <link>https://gulinan.github.io/deneme/blog/color-themes/</link>
+      <link>https://gulinan.github.io/blog/color-themes/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/color-themes/</guid>
+      <guid>https://gulinan.github.io/blog/color-themes/</guid>
       <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
 Use a color theme     Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS.</description>
     </item>
     
     <item>
       <title>Style your site typography</title>
-      <link>https://gulinan.github.io/deneme/blog/fonts/</link>
+      <link>https://gulinan.github.io/blog/fonts/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/fonts/</guid>
+      <guid>https://gulinan.github.io/blog/fonts/</guid>
       <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
 Embedded fonts     Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
     </item>
     
     <item>
       <title>An evergreen post</title>
-      <link>https://gulinan.github.io/deneme/blog/evergreen/</link>
+      <link>https://gulinan.github.io/blog/evergreen/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/evergreen/</guid>
+      <guid>https://gulinan.github.io/blog/evergreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using panelsets</title>
-      <link>https://gulinan.github.io/deneme/blog/seedling/</link>
+      <link>https://gulinan.github.io/blog/seedling/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/seedling/</guid>
+      <guid>https://gulinan.github.io/blog/seedling/</guid>
       <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
 For example, this panelset:
 Hello! 👋 hello
@@ -174,10 +174,10 @@ Hello! 👋 hello
     
     <item>
       <title>An Rmarkdown post</title>
-      <link>https://gulinan.github.io/deneme/blog/rmarkdown/</link>
+      <link>https://gulinan.github.io/blog/rmarkdown/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/rmarkdown/</guid>
+      <guid>https://gulinan.github.io/blog/rmarkdown/</guid>
       <description>knitr::opts_chunk$set(fig.path = &amp;#34;figs/&amp;#34;, collapse = TRUE)  An empty post      woot
 Yay fontawesome works.
 Well let&amp;rsquo;s try penguins     library(tidyverse) ## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ── ## ✓ ggplot2 3.3.2 ✓ purrr 0.3.4 ## ✓ tibble 3.0.4 ✓ dplyr 1.0.2 ## ✓ tidyr 1.1.2 ✓ stringr 1.4.0 ## ✓ readr 1.4.0 ✓ forcats 0.5.0 ## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.</description>
@@ -185,10 +185,10 @@ Well let&amp;rsquo;s try penguins     library(tidyverse) ## ── Attaching pac
     
     <item>
       <title>An Rmd post</title>
-      <link>https://gulinan.github.io/deneme/blog/rmd/</link>
+      <link>https://gulinan.github.io/blog/rmd/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/rmd/</guid>
+      <guid>https://gulinan.github.io/blog/rmd/</guid>
       <description>knitr::opts_chunk$set(fig.path = &amp;#34;figs/&amp;#34;, collapse = TRUE)  An empty post      woot
 Yay fontawesome works.
 Well let&amp;rsquo;s try penguins     library(tidyverse) ## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ── ## ✓ ggplot2 3.3.2 ✓ purrr 0.3.4 ## ✓ tibble 3.0.4 ✓ dplyr 1.0.2 ## ✓ tidyr 1.1.2 ✓ stringr 1.4.0 ## ✓ readr 1.4.0 ✓ forcats 0.5.0 ## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.</description>
@@ -196,29 +196,29 @@ Well let&amp;rsquo;s try penguins     library(tidyverse) ## ── Attaching pac
     
     <item>
       <title>CSS Grid Scaffold</title>
-      <link>https://gulinan.github.io/deneme/blog/css-grid-scaffold/</link>
+      <link>https://gulinan.github.io/blog/css-grid-scaffold/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/css-grid-scaffold/</guid>
+      <guid>https://gulinan.github.io/blog/css-grid-scaffold/</guid>
       <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
  Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
     </item>
     
     <item>
       <title>Built-in Contact Form</title>
-      <link>https://gulinan.github.io/deneme/blog/built-in-contact-form/</link>
+      <link>https://gulinan.github.io/blog/built-in-contact-form/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/blog/built-in-contact-form/</guid>
+      <guid>https://gulinan.github.io/blog/built-in-contact-form/</guid>
       <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
     </item>
     
     <item>
       <title>Typography Styles &amp; Element Examples</title>
-      <link>https://gulinan.github.io/deneme/elements/</link>
+      <link>https://gulinan.github.io/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/elements/</guid>
+      <guid>https://gulinan.github.io/elements/</guid>
       <description>Font Sizes   A A A A A A A A   6rem
 (96px) 5rem
 (80px) 3rem
@@ -232,19 +232,19 @@ Well let&amp;rsquo;s try penguins     library(tidyverse) ## ── Attaching pac
     
     <item>
       <title></title>
-      <link>https://gulinan.github.io/deneme/about/</link>
+      <link>https://gulinan.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/about/</guid>
+      <guid>https://gulinan.github.io/about/</guid>
       <description>About me I am an assistant professor in the Department of Mathematics at Istanbul Technical University (ITU), Istanbul, Turkey since 2018, where the department offers a mathematical engineering programme. I received my Ph.D., M.Sc., and B.Sc. all in Statistics from Department of Statistics, Middle East Technical University (METU), Ankara, Turkey, in 2014, 2009, and 2006, respectively. I did my post-doctoral studies at School of Statistics, University of Minnesota, USA, and at Department of Biostatistics, University of North Carolina-Chapel Hill, USA, between 2015-2016.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gulinan.github.io/deneme/grant/</link>
+      <link>https://gulinan.github.io/grant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/grant/</guid>
+      <guid>https://gulinan.github.io/grant/</guid>
       <description>Travel Grants  TUBITAK travel grant to attend IBC2018, Barcelona, Spain.
   Basque Center for Applied Mathematics (BCAM) fellowship to visit BCAM, Bilbao, Spain in 2017.
  Institute of Mathematical Statistics travel award to attend JSM2017, Baltimore, MD, USA. News is available in here.
@@ -254,19 +254,19 @@ Well let&amp;rsquo;s try penguins     library(tidyverse) ## ── Attaching pac
     
     <item>
       <title></title>
-      <link>https://gulinan.github.io/deneme/more/</link>
+      <link>https://gulinan.github.io/more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/more/</guid>
+      <guid>https://gulinan.github.io/more/</guid>
       <description>Equity and Diversity In my professional life, I interact with so many scholars and students with diverse backgrounds through exchanging ideas via emails, collobrating on projects, teaching classes, reviewing papers/project grants, chairing conference/workshop sessions and so on. Here, I should say that while I am doing my job, I am committed to cultural and individual differences and diversity as including, but not limited to, age, disability, ethnicity, gender, gender identity, language, national origin, race, religion, culture, and socioeconomic status and I acknowledge the value of differences.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gulinan.github.io/deneme/publication/</link>
+      <link>https://gulinan.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/publication/</guid>
+      <guid>https://gulinan.github.io/publication/</guid>
       <description>Publications &amp;nbsp;Google Scholar
 Siddique, J., Daniels, M.J., Inan, G., Battalio, S., Spring, B., &amp; Hedeker, D. (2022+). Joint modeling the frequency and duration of accelerometer-measured pyhsical activity from a lifestyle intervention trial. Statistics in Medicine. (Under review)
  Aldag, S., Topcuoglu, D., &amp; Inan, G. (2022). Revisiting historical bar graphics on epidemics in the era of R ggplot2. R Journal. (In-print)
@@ -275,10 +275,10 @@ Siddique, J., Daniels, M.J., Inan, G., Battalio, S., Spring, B., &amp; Hedeker, 
     
     <item>
       <title></title>
-      <link>https://gulinan.github.io/deneme/service/</link>
+      <link>https://gulinan.github.io/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/service/</guid>
+      <guid>https://gulinan.github.io/service/</guid>
       <description>Reviewer for  Communications in Statistics – Theory and Methods (1).
   Computational Statistics and Data Analysis (2).
   Hacettepe Journal of Mathematics and Statistics (2).
@@ -292,29 +292,29 @@ Siddique, J., Daniels, M.J., Inan, G., Battalio, S., Spring, B., &amp; Hedeker, 
     
     <item>
       <title></title>
-      <link>https://gulinan.github.io/deneme/supervision/</link>
+      <link>https://gulinan.github.io/supervision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/supervision/</guid>
+      <guid>https://gulinan.github.io/supervision/</guid>
       <description>Qualifications required for potential graduate/undergraduate students Previous course work on: Statistics, machine learning, deep learning, linear algebra, and optimization, good level of Python knowledge, familiarity with Git/GitHub and LaTeX (and/or Overleaf), and being a research-oriented person, being able to read and critize research papers published in machine learning venues from a mathematical/statistical/computational view point, and strong communication skills (both verbally and orally). A lightened version of these rules applies to undergraduate students as well.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gulinan.github.io/deneme/talks/</link>
+      <link>https://gulinan.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/talks/</guid>
+      <guid>https://gulinan.github.io/talks/</guid>
       <description>Abstracts in Conferences  Aldag, S., Topcuoglu, D., and Inan, G. Revisiting historical bar graphics on epidemics in the era of R ggplot2. Joint Statistical Meetings (JSM), August 8-12, 2021, Virtual Conference. [Slides]
   Inan, G. and Siddique, J. Joint modeling the frequency and duration of physical activity data from a life-style intervention trial. Y-BIS 2019: ISBIS Young Business and Industrial Statisticians Workshop on Recent Advances in Data Science and Business Analytics, 25-28 September 2019, Istanbul, Turkey.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gulinan.github.io/deneme/teaching/</link>
+      <link>https://gulinan.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gulinan.github.io/deneme/teaching/</guid>
+      <guid>https://gulinan.github.io/teaching/</guid>
       <description>Teaching Interest I am interested in teaching probability theory, mathematical statistics, statistical computing with R/Python, computational statistics classes at undergraduate level, and statistical theory, statistical inference, and statistical learning theory classes at graduate level. I have also experience in teaching calculus which enabled me to better understand most theorems in statistics. In computational classes, I like using Git, GitHub, GitHub classroom to collect individual and grouped-based studies. In data-oriented classes, I do like dealing with data sets with &#34;</description>
     </item>
     
