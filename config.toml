@@ -1,4 +1,4 @@
-baseURL = "https://gulinan.github.io/deneme"
+baseURL = "https://gulinan.github.io"
 languageCode = "en"
 theme = "hugo-apero"
 title = "Gül İnan"
