@@ -7,7 +7,10 @@ show_title_as_headline: true
 <h1 color="rgb(132," 132,="" 132);="">Travel Grants</h1>
 <ul style="font-size:20px;">
 <li>
-TUBITAK travel grant to attend IBC2018, Barcelona, Spain.<br>
+RStudio travel grant to attend rstudio::conf(2022), Washington DC, USA in 2022.<br>
+</li>  
+<li>
+TUBITAK travel grant to attend IBC2018, Barcelona, Spain in 2018.<br>
 </li>
 <li>
 Basque Center for Applied Mathematics (BCAM) fellowship to visit BCAM, Bilbao, Spain in 2017.<br>
