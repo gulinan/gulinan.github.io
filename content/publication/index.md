@@ -8,7 +8,7 @@ show_title_as_headline: true
 &nbsp;<a href="https://scholar.google.com/citations?user=0zuxPXAAAAAJ&hl=en&oi=ao"> Google
 Scholar</a><br>
 <ul style="font-size:20px;">
-<li>Siddique, J., Daniels,  M.J., Inan, G., Battalio, S.,  Spring, B., & Hedeker, D. (2022+). Joint modeling the frequency and duration of accelerometer-measured pyhsical activity from a lifestyle intervention trial. Statistics in Medicine. (Under review)<br>
+<li>Siddique, J., Daniels,  M.J., Inan, G., Battalio, S.,  Spring, B., & Hedeker, D. (2022+). Joint modeling the frequency and duration of accelerometer-measured pyhsical activity from a lifestyle intervention trial. (Under review)<br>
 </li>
 <li>Aldag, S., Topcuoglu, D.,  & Inan, G. (2022). Revisiting historical bar graphics on epidemics in the era of R ggplot2. R Journal. (In-print)<br>
 </li>
