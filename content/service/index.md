@@ -26,7 +26,7 @@ show_title_as_headline: true
 </li>
 <li> Journal of Statistical Research, ISRT, University of Dhaka (1).<br>
 </li>
-<li> Statistical Methods in Medical Research (4).<br>
+<li> Statistical Methods in Medical Research (5).<br>
 </li>
 <li> Statistical Modeling (1).<br>
 </li>
