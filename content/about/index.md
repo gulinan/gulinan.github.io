@@ -11,7 +11,7 @@ show_title_as_headline: true
 <br>
 <h1><span color="rgb(132," 132,="" 132);="">Research interests</span></h1>
 <p style="font-size:20px;text-align: justify;">In the past, I worked on developing new statistical methodologies for analysis of longitudinal data and zero-inflated data for discrete outcomes motivated by health sciences.  Most of the time, I dealt with computationally intensive models where the parameter optimization was a challeging task. This experience motivated me to continue to work on computationally heavy methods.</p> 
-<p style="font-size:20px;text-align: justify;">My current research interest is on statistical learning/deep learning algorithms, high-dimensional sparse data analysis and regularization, and topic modeling for digitized historical documents. Apart from these, I am also interested in history of mathematics, statistics, and programming languages.</p>
+<p style="font-size:20px;text-align: justify;">My current research interest is on statistical learning algorithms, high-dimensional sparse data analysis and regularization, computational statistics, and statistical computing. Apart from these, I am also interested in history of mathematics, statistics, and programming languages.</p>
 <br>     
 <h1 color="rgb(132," 132,="" 132);="">Computer Skills</h1>
 <ul style="font-size:20px;">
