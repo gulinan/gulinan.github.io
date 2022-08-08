@@ -22,7 +22,7 @@ show_title_as_headline: true
 <b span style="color:black">Version Control:</b> Git, GitHub/GitHub classroom.<br>
 </li>
 <li>  
-<b span style="color:black">Mark-up languages:</b> LaTeX, Markdown, HTML (along with some CSS), R Markdown. <br>
+<b span style="color:black">Mark-up languages:</b> LaTeX, Markdown, R Markdown, Quarto, HTML (along with some CSS). <br>
 </li>
 <li>  
 <b span style="color:black">Presentation frameworks:</b> Beamer, R xaringan (along with some Remark.js). <br>
