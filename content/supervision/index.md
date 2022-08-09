@@ -13,7 +13,7 @@ show_title_as_headline: true
 <ul style="font-size:20px;">
 <li>Master Thesis Project*:
 <ul>
-<li> İrem Sarıbaş</li>
+<li> İrem Sarıbaş. An optimization algorithm for robust high-dimensional data analysis.</li>
 <li>Ozan Güldali (August 2021). Deep feature transfer from deep learning
 models into machine learning algorithms to classify Covid-19 from chest X-ray images.
 <a href="https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=v7BkNnnepTnbhn8rNR77LfMMnfBbCUVTxMavUxS_XQiweRuhiz6bn4W2oCxOvik_"> [Thesis]</a>, <a href="https://github.com/ozanguldali/modelsWithLASSO"> [Code]</a>.
@@ -22,7 +22,9 @@ models into machine learning algorithms to classify Covid-19 from chest X-ray im
 </li>
 <li>Undergraduate Senior Thesis Project:
 <ul>
-<li> İpek Korkmaz, Eda Atalay, Burcu Cebecioğlu, Şeval Çoşar, "Recurrent neural networks with applications" (Expected: June 2022).
+<li> Yusuf Emre Bayat, Tarık Kayalı, "Anomaly detection of big industrial IoT data" (Expected: June 2023). Supported by <a href="https://sensemore.io/tr/">Sensemore</a>.
+</li>   
+<li> İpek Korkmaz, Eda Atalay, Burcu Cebecioğlu, Şeval Çoşar, "Recurrent neural networks with applications" (June 2022).
 </li> 
 <li> Sercan Yıldız, "Data science tools for mining digitized historical archives" (August 2021). Supported by Tubitak 2209-A.
 </li> 
