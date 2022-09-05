@@ -1,7 +1,7 @@
 ---
 title: "Gül İnan"
 subtitle: ""
-description: "I am a statistician and working as an assistant professor in the Department of Mathematics at Istanbul Technical University, Istanbul, Turkey. In Fall21, I taught [Probability Theory](https://gulinan.github.io/mat221e/) and [Introduction to Data Science](https://gulinan.github.io/mat381e/) (with Data for Good theme). In Spring22, I am teaching [Statistics](https://gulinan.github.io/mat244e/)."
+description: "I am a statistician and working as an assistant professor in the Department of Mathematics at Istanbul Technical University, Istanbul, Turkey. In Fall22, I am teaching [MAT55E:Statistical Data Analysis for Computational Sciencesy](https://mat555e-fall22.github.io) and MAT221E:Probability Theory."
 images:
   - img/gulinan.png
 image_left: false
