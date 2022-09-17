@@ -25,6 +25,10 @@ mathematical statistics, statistical computing with R/Python, computational stat
 <li> <a href="https://gulinan.github.io/mat381e/">MAT381E: Introduction to Data Science </a></li>
 <ul>
 <li>
+<a href="https://github.com/MAT555E-Fall22"> GitHub course organization</a>
+</ul>
+<ul>
+<li>
 <a href="https://github.com/MAT381E-Fall21/"> GitHub course organization</a>
 </ul>
 </ul>
