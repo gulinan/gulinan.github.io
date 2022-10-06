@@ -41,7 +41,7 @@ If you are a student, I strongly suggest to you read "The soft skills college st
 </p>   
 <br>
       
-<small>Last updated: June 26, 2022</small><br>
+<small>Last updated: October 6, 2022</small><br>
 </td>
 </tr>
   
