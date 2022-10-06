@@ -62,10 +62,10 @@ R package <a href="https://cran.r-project.org/web/packages/PoisBinOrd/index.html
 </ul> 
 <br>
 <br>
-<h2 color="rgb(132," 132,="" 132);="">**On some Ethical Issues in Academia**</h2>
+<h1 color="rgb(132," 132,="" 132);="">On some Ethical Issues in Academia</h1>
 
 <p>
-n September 30, 2014, for post-doctoral studies, I submitted a project proposal to Tubitak 2219 programme. The project was mainly about integrating SCAD penalty function to longitudinal data analysis problems with high-dimensional covariates through empirical likelihood estimation method. The idea was based on the works of my post-doctoral mentor who is one of the prominent scientists in this area in US. </p>
+On September 30, 2014, for post-doctoral studies, I submitted a project proposal to Tubitak 2219 programme. The project was mainly about integrating SCAD penalty function to longitudinal data analysis problems with high-dimensional covariates through empirical likelihood estimation method. The idea was based on the works of my post-doctoral mentor who is one of the prominent scientists in this area in US. </p>
 
 <p>
 A few years ago, I have noticed that a specific research group based in Turkey produce similar works involving SCAD penalty function, empirical likelihood analysis etc through conference talks, PhD thesis works, scientific papers, even in workshop titles since May 2016.  Since they have never cited me in a way (or my 2016 published R package, my 2017 published paper), I thought that this can be totally by chance since we do not know each other. </p>
