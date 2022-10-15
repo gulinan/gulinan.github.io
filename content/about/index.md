@@ -43,10 +43,10 @@ show_title_as_headline: true
 <tr>     
 <td style="font-size:20px;text-align: left; vertical-align: bottom; padding-left: 1;">
 <p style="font-size:20px;text-align: justify;">
+Email: <a href="mailto:inan@itu.edu.tr">inan@itu.edu.tr</a>  <br>  
 <a href="https://www.google.com/maps/place/%C4%B0T%C3%9C+Matematik+M%C3%BChendisli%C4%9Fi+B%C3%B6l%C3%BCm%C3%BC/@41.106778,29.0220743,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab52e0adf31d1:0xa0db5739235741dd!8m2!3d41.106778!4d29.024263?hl=en-US"> Department of Mathematics, Room 424<br>
                 Faculty of Arts and Sciences<br>
                 Istanbul Technical University<br>
-                34469, Maslak, İstanbul, Turkey</a> <br>
-                Email: <a href="mailto:inan@itu.edu.tr">inan@itu.edu.tr</a></p> 
+                34469, Maslak, İstanbul, Turkey</a></p> 
 </tr>    
 </tbody>                
