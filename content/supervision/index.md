@@ -4,12 +4,12 @@ layout: standard
 show_title_as_headline: true
 ---
 
-<h1><span color="rgb(132," 132,="" 132);="">Qualifications required for potential graduate/undergraduate students</span></h1>
-<p style="font-size:20px;text-align: justify;">Previous course work on: Statistics (multiple statistics courses), machine learning, linear algebra, and optimization, good level of Python knowledge, familiarity with Git/GitHub and LaTeX (and/or Overleaf), and being a research-oriented person, being able to read and critize research papers published in machine learning venues from a mathematical/statistical/computational view point, and strong communication skills (both verbally and orally). A lightened version of these rules applies to undergraduate students as well.</p>
+    <h1><span color="rgb(132," 132,="" 132);="">Qualifications required for potential graduate/undergraduate students</span></h1>
+<p style="font-size:20px;text-align: justify;">Previous course work: Linear algebra, optimization, probability theory, statistics (multiple statistics courses), machine learning, data structures and algorithms, database management and big data; and good level of Python knowledge, familiarity with Git/GitHub and LaTeX (and/or Overleaf), and being a research-oriented person, being able to read and critize research papers published in machine learning venues from a mathematical/statistical/computational view point, and strong communication skills (both verbally and orally). A lightened version of these rules applies to undergraduate students as well.</p>
 <p style="font-size:14px;text-align: justify;">*To graduate students: it is very important to show your prior experience when sending me an email to ask for an appointment. </p>
-<p style="font-size:14px;color:blue;text-align: justify;">*Thank you very much for your interest. I am not looking for undergrad/grad students for Fall22. I am not looking for undergrad/grad students for Fall22. I am planning to hire 1-2 grad students with **strong statistics background** (e.g., industrial eng. background) to work on developing statistical methodology for data analytics in Spring23.</p>
-<br>
+<p style="font-size:14px;color:blue;text-align: justify;"> Thank you very much for your interest. I am not looking for undergrad/grad students for Fall22. I am planning to hire 1-2 grad students to work on developing statistical methodology for high-dimensional data analysis in Spring23.</p><br>
 <h1 color="rgb(132," 132,="" 132);="">Supervision</h1>
+<ul style="font-size:20px;">
 <ul style="font-size:20px;">
 <li>Master Thesis Project*:
 <ul>
