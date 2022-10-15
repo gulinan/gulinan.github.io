@@ -15,8 +15,8 @@ show_title_as_headline: true
 <li> A lightened version of these rules applies to undergraduate students as well. </li>   
 </ul>
 </p>
-<p style="font-size:14px;text-align: justify;">*To graduate students: it is very important to show your prior experience when sending me an email to ask for an appointment. </p>
-<p style="font-size:14px;color:blue;text-align: justify;"> Thank you very much for your interest. I am not looking for undergrad/grad students for Fall22. I am planning to hire 1-2 grad students to work on developing statistical methodology for high-dimensional data analysis in Spring23.</p><br>
+<p style="font-size:20px;text-align: justify;">*To graduate students: it is very important to show your prior experience when sending me an email to ask for an appointment. </p>
+<p style="font-size:20px;color:blue;text-align: justify;"> Thank you very much for your interest. I am not looking for undergrad/grad students for Fall22. I am planning to hire 1-2 grad students to work on developing statistical methodology for high-dimensional data analysis in Spring23.</p><br>
 <h1 color="rgb(132," 132,="" 132);="">Supervision</h1>
 <ul style="font-size:20px;">
 <ul style="font-size:20px;">
