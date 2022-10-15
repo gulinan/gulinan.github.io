@@ -6,7 +6,7 @@ show_title_as_headline: true
 
     <h1><span color="rgb(132," 132,="" 132);="">Qualifications required for potential graduate/undergraduate students</span></h1>
 <p style="font-size:20px;text-align: justify;"> 
-<ul>
+<ul style="font-size:20px;">
 <li> Previous course work on: Linear algebra, optimization, probability theory, statistics (multiple statistics courses), machine learning, data structures and algorithms, database management and big data. </li>  
 <li> Good level of Python knowledge. </li>
 <li> Familiarity with Git/GitHub and LaTeX (and/or Overleaf). </li>
