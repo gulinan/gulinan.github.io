@@ -8,9 +8,8 @@ show_title_as_headline: true
 <p style="font-size:20px;text-align: justify;"> 
 My research agenda focuses on high-dimensional data analysis problems where the number of features are large in number compared to the number of
 data points. I am interested in integrating convex or non-convex penalty functions such as SCAD into some supervised learning algorithms (regression & classification
-problems). Due to nature of the objective function to be optimized, iterative optimization algorithms may required along with tuning the regularization parameter. 
-If you are interested pursuing a graduate study with me, you should already be familiar with generalized linear models (linear regression,
-logistic regression), lasso regression, ridge regression, cross-validation, newton-raphson method, gradient-descent, and popular matrix decomposition methods, and have very good programming skills.   
+problems). If you are interested pursuing a graduate study with me, you should already be familiar with generalized linear models (linear regression,
+logistic regression), lasso regression, ridge regression, and have very good programming skills.   
 I can briefly list the requirements you need to have prior to asking for an appointment from me: </p> 
 <p>
 <ul style="font-size:20px;">
