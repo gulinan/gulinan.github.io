@@ -8,7 +8,7 @@ show_title_as_headline: true
 <p style="font-size:20px;text-align: justify;"> 
 My research agenda focuses on high-dimensional data analysis problems where the number of features are large in number compared to the number of
 data points. I am interested in integrating convex or non-convex penalty functions such as SCAD into some supervised learning algorithms (regression & classification
-problems). I also do like borrowing some methodological ideas from industrial engineering and computational ideas from computer science. If you are interested pursuing a graduate study with me, you should already be familiar with generalized linear models (linear regression,
+problems). If you are interested in pursuing a graduate study with me, you should already be familiar with generalized linear models (linear regression,
 logistic regression), lasso regression, ridge regression, and have very good programming skills.   
 I can briefly list the requirements you need to have prior to asking for an appointment from me: </p> 
 <p>
@@ -25,7 +25,7 @@ I can briefly list the requirements you need to have prior to asking for an appo
 <ul style="font-size:20px;">
 <li>Master Thesis Project:
 <ul>
-<li> İrem Sarıbaş. An optimization algorithm for robust high-dimensional data analysis.</li>
+<li> İrem Sarıbaş. High-dimensional data analysis.</li>
 <li>Ozan Güldali (August 2021). Deep feature transfer from deep learning
 models into machine learning algorithms to classify Covid-19 from chest X-ray images.
 <a href="https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=v7BkNnnepTnbhn8rNR77LfMMnfBbCUVTxMavUxS_XQiweRuhiz6bn4W2oCxOvik_"> [Thesis]</a>, <a href="https://github.com/ozanguldali/modelsWithLASSO"> [Code]</a>.
