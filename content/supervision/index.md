@@ -50,5 +50,12 @@ models into machine learning algorithms to classify Covid-19 from chest X-ray im
 <li> Erol Kıbrıs (June 2019).
 </li>
 </ul>
+<h1><span color="rgb(132," 132,="" 132);="">Email Policy</span></h1>
+<p style="font-size:20px;text-align: justify;"> 
+I receive too many emails from students on a weekly basis. If you are planning to send me an email for 
+asking for a possible meeting or recommendation letters, please arrange yourself accordingly and give me at least three weeks. 
+I can understand that you have urgencies or strict
+deadlines. I am sorry to say this, but, I also have my urgencies or deadlines which means that I need time to get back to you. </p> 
+<p>        
 </ul>
 <br>
