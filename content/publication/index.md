@@ -4,7 +4,7 @@ layout: standard
 show_title_as_headline: true
 ---
 
-<h1 color="rgb(132," 132,="" 132);="">Publications</h1>
+<h1 color="rgb(132," 132,="" 132);="">Publications in field-related Journals</h1>
 &nbsp;<a href="https://scholar.google.com/citations?user=0zuxPXAAAAAJ&hl=en&oi=ao"> Google
 Scholar</a><br>
 <ul style="font-size:20px;">
