@@ -8,7 +8,9 @@ show_title_as_headline: true
 &nbsp;<a href="https://scholar.google.com/citations?user=0zuxPXAAAAAJ&hl=en&oi=ao"> Google
 Scholar</a><br>
 <ul style="font-size:20px;">
-<li>Siddique, J., Daniels,  M.J., Inan, G., Battalio, S.,  Spring, B., & Hedeker, D. (2022+). Joint modeling the frequency and duration of accelerometer-measured pyhsical activity from a lifestyle intervention trial. (Under review)<br>
+<li>Siddique, J., Daniels,  M.J., Inan, G., Battalio, S.,  Spring, B., & Hedeker, D. (2023+). Joint modeling the frequency and duration of accelerometer-measured pyhsical activity from a lifestyle intervention trial. (Under review)<br>
+</li>
+<li> Inan, G. (2023). <a href="https://dergipark.org.tr/en/pub/hujms/issue/42398/993075">Bayesian joint modeling of patient-reported longitudinal data on frequency and duration of migraine</a>. Hacettepe Journal of Mathematics and Statistics. DOI: 10.15672/hujms.993075. <br>
 </li>
 <li>Aldag, S., Topcuoglu, D.,  & Inan, G. (2022). <a href="https://journal.r-project.org/articles/RJ-2022-010/"> Revisiting historical bar graphics on epidemics in the era of R ggplot2</a>. R Journal, 14(1), 146 - 166.<br>
 </li>
