@@ -18,7 +18,7 @@ show_title_as_headline: true
 </li>
 <li> Journal of Multivariate Analysis (1).<br>
 </li>
-<li> Journal of Statistical Computation and Simulation (5).<br>
+<li> Journal of Statistical Computation and Simulation (6).<br>
 </li>
 <li> Journal of Statistics Education (1).<br>
 </li>
@@ -26,7 +26,7 @@ show_title_as_headline: true
 </li>
 <li> Journal of Statistical Research, ISRT, University of Dhaka (1).<br>
 </li>
-<li> Statistical Methods in Medical Research (5).<br>
+<li> Statistical Methods in Medical Research (6).<br>
 </li>
 <li> Statistical Modeling (1).<br>
 </li>
