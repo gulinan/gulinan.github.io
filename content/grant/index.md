@@ -28,7 +28,7 @@ Erasmus+ICM Programme travel grant to visit RMIT University, Melbourne, Australi
 <a href="https://members.biometricsociety.org/home">International Biometric Society</a> travel grant to attend 9th EMR-IBS and Italian Region Conference 2017, Thessaloniki, Greece.<br>
 </li>
 <li>
-The <a href="https://awm-math.org/">American Association for Women in Mathematics (AWM)</a> travel grant to attend ICHPS2015, Providence, RI, USA.<br>
+<a href="https://awm-math.org/">American Association for Women in Mathematics (AWM)</a> travel grant to attend ICHPS2015, Providence, RI, USA.<br>
 </li>
 </ul> 
 <br>
