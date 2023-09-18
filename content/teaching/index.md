@@ -8,6 +8,16 @@ show_title_as_headline: true
 <p style="font-size:20px;text-align: justify;">I am interested in teaching probability theory,
 mathematical statistics, statistical computing with R/Python, computational statistics, multivariate analysis, applied statistical learning classes at undergraduate level, and statistical theory, statistical inference, and statistical learning theory classes at graduate level. I have also experience in teaching calculus which enabled me to better understand most theorems in statistics. In computational classes, I like using Git, GitHub, GitHub classroom to collect individual and grouped-based studies. In data-oriented classes, I do like dealing with data sets with "Data for Good" theme.<p>
 <br>
+<h1 color="rgb(132," 132,="" 132);="">Fall 2023 Course Webpages</h1>
+<ul style="font-size:20px;text-align:">
+<li> <a href="https://mat221e-fall23.github.io/">MAT221E: Probability Theory</a></li>
+<li> <a href="https://mat388e-fall23.github.io/">MAT388E-Data Analysis in Fundemantal Sciences</a></li>  
+<ul>
+<li>
+<a href="https://github.com/MAT388E-Fall23"> GitHub course organization</a>
+</ul>
+</ul>  
+<br>     
 <h1 color="rgb(132," 132,="" 132);="">Spring 2023 Course Webpages</h1>
 <ul style="font-size:20px;text-align:">
 <li> <a href="https://mat388e-spring23.github.io/">MAT388E-Data Analysis in Fundemantal Sciences</a></li>
