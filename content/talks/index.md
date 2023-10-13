@@ -34,7 +34,7 @@ Inan, G. and Yucel, R.M. Joint GEEs for multivariate correlated data with incomp
 <br>
 <h1 color="rgb(132," 132,="" 132);="">Talks</h1>
 <ul style="font-size:20px;">
-<li> A Bayesian Joint Model for Analysis of the Frequency and Duration of Physical Activity from a Lifestyle Intervention Trial", IMBM-Mathematics Days VII, Istanbul, October 13, 2023.</li><br>  
+<li> A Bayesian Joint Model for Analysis of the Frequency and Duration of Physical Activity from a Lifestyle Intervention Trial", Bogazici University, IMBM-Mathematics Days VII, Istanbul, October 13, 2023.[Slides](https://github.com/gulinan/imbm_talk_2023/blob/main/imbm_talk_2023.pdf)</li>
 <li> "Cross-validation: What does it estimate and how well does it do it?" at Machine Learning in Montpellier, Theory & Practice, France, online, January, 2022. <a href="https://groupes.renater.fr/wiki/ml-mtp/_media/wiki/cv_inan_gul.pdf">[Slides]</a> </li>
 <li> "A score test for testing a marginalized zero-inflated Poisson regression model against a marginalized zero-inflated negative-binomial regression model" at Basque Center for Applied Mathematics, Bilbao, Spain, September 2017.<br>
 </li>
